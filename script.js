@@ -6,7 +6,7 @@ const noBtn = document.querySelector(".no-btn");
 const additionalMessage = document.querySelector(".additional-message");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Tới công chuyện với bà mày rồi =)))))";
+  question.innerHTML = "Mi chê ko muốn đi chơi với tớ kìa :(";
   gif.src =
     "https://media.giphy.com/media/MFkTITj69pMOPlbfeX/giphy.gif";
   // Ẩn cả hai nút "Yes" và "No"
